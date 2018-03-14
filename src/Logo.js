@@ -5,7 +5,7 @@ class Logo extends Component {
     render() {
         return (
             <div>
-                <h1>OmniFood</h1>
+                <h1>ProdukLebah.com</h1>
             </div>
         );
     }
