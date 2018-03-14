@@ -3,4 +3,9 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
+  
+}
+
+header {
+  background-color: #e67e22;
 }

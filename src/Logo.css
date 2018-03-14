@@ -1,9 +1,7 @@
 h1 {
     margin: 0;
-    padding: 20px;
-    text-align: center;
+    padding: 20px 10%;
     font-weight: 400;
     letter-spacing: 1px;
     color: white;
-    background-color: #e67e22;
 }

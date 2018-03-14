@@ -4,9 +4,9 @@ import Logo from './Logo';
 class Header extends Component {
     render() {
         return (
-            <div>
+            <header>
                 <Logo />
-            </div>
+            </header>
         );
     }
 }
